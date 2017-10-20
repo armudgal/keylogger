@@ -2,7 +2,7 @@
 
 ## Author 
 
-Arushit Mudgal[https://github.com/kira0204]
+[Arushit Mudgal](https://github.com/kira0204)
 
 A simple C program acting as Keylogger.
 
