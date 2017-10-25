@@ -20,5 +20,5 @@ Arushit Mudgal
 
 EMail-id :- rshtmudgal@gmail.com
 
-Making changes for
+Making changes for Hacktober
 
