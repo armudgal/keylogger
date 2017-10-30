@@ -8,7 +8,7 @@ A simple C program acting as Keylogger.
 
 ## Instructions
 
-Open the keylogger.exe file.
+Open the keylogger.exe file. 
 
 Press 'F1' or 'ESC' to close the program.
 
@@ -16,7 +16,8 @@ Press 'F1' or 'ESC' to close the program.
 
 ## Contact
 
-Arushit Mudgal
+Arushit Mudgal,
 
 EMail-id :- rshtmudgal@gmail.com
 
+this
