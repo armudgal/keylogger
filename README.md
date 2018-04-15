@@ -1,22 +1,10 @@
-# Keylogger v1.0
-
-## Author 
-
-[Arushit Mudgal](https://github.com/kira0204)
-
-A simple C program acting as Keylogger.
+# Keylogger
 
 ## Instructions
 
-Open the keylogger.exe file. 
+Compile the `keylogger.c` file using `gcc`. 
 
-Press 'F1' or 'ESC' to close the program.
+Press `F1` or `ESC` to close the program.
 
-'key.txt' file will be created in the same folder as of keylogger.exe.
-
-## Contact
-
-Arushit Mudgal,
-
-Email-id :- rshtmudgal@gmail.com
+`key.txt` file will be created in the same folder as of keylogger.exe.
 
